@@ -1,9 +1,8 @@
-node_modules/
+# .gitignore in LegalScan/
 .env
 .DS_Store
-.next
-dist
-build
+*.log
+__pycache__/
 frontend/node_modules/
 frontend/.next/
-backend/__pycache__
+backend/__pycache__/
