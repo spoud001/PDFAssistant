@@ -1,0 +1,14 @@
+/* [project]/globals.css [client] (css) */
+.react-pdf__Page__textContent span {
+  opacity: 0;
+  transition: all .2s;
+}
+
+.react-pdf__Page__textContent mark {
+  background-color: #ff0;
+  border-radius: 3px;
+  padding: 0 2px;
+  opacity: 1 !important;
+}
+
+/*# sourceMappingURL=globals_css_2bef753f._.single.css.map*/

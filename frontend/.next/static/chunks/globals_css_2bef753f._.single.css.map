@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/globals.css"],"sourcesContent":[".react-pdf__Page__textContent span {\r\n  opacity: 0;\r\n  transition: 0.2s ease;\r\n}\r\n\r\n.react-pdf__Page__textContent mark {\r\n  background-color: yellow;\r\n  border-radius: 3px;\r\n  padding: 0 2px;\r\n  opacity: 1 !important;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;AAKA"}}]
+}
